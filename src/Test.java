@@ -5,5 +5,7 @@ public class Test {
         System.out.println("BLA BLA BLA");
         System.out.println("Ala ma kota");
         System.out.println("Test2");
+        System.out.println("Test3");
+
     }
 }
